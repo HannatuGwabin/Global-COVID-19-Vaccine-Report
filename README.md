@@ -9,4 +9,4 @@ I have used my expertise in data analysis to analyze the global COVID-19 vaccine
 
 This report was done in Tableau.
 
-[Covid-19 Vaccine Dashboard.pdf](https://github.com/HannatuGwabin/Global-COVID-19-Vaccine-Report/files/11051115/Covid-19.Vaccine.Dashboard.pdf)
+![Covid-19 Vaccine Dashboard_page-0001](https://user-images.githubusercontent.com/115185829/227215201-62d858c4-0f2f-4f97-9acd-f11c2dd530d4.jpg)
